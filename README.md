@@ -1,4 +1,4 @@
-Hey, I'm Davedka 👋
+Hey, I'm Dawe 👋
 Backend developer focused on building practical web applications and systems. I enjoy working close to the server — databases, APIs, authentication flows, and clean logic.
 
 🛠️ Tech I Work With
