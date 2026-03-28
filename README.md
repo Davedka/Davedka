@@ -1,12 +1,12 @@
-# Hey, I'm Dávid 👋
+# Hi, I'm Dávid 👋
 
-Backend developer focused on building practical web applications and systems — close to the server, close to the data. I enjoy working with databases, REST APIs, authentication flows, and clean logic.
+> Backend developer focused on building practical web applications — close to the server, close to the data.
 
-Currently finishing my **thesis project** [Ticky](https://github.com/Davedka/Ticky) — a real-time classroom availability tracker deployed and running at school.
+I enjoy working with databases, REST APIs, authentication flows, and clean backend logic. Currently finishing my **thesis project** [Ticky](https://github.com/Davedka/Ticky) — a real-time classroom availability tracker deployed and running at school.
 
----
+<br>
 
-## 🛠️ Tech I Work With
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -23,42 +23,58 @@ Currently finishing my **thesis project** [Ticky](https://github.com/Davedka/Tic
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+<br>
 
 ## 🚀 Projects
 
 ### 🏫 [Ticky — Classroom Availability System](https://github.com/Davedka/Ticky)
-Real-time classroom tracker for **53 rooms** and **69 teachers** — live at [ticky-6r32.onrender.com](https://ticky-6r32.onrender.com)
 
-- PHP 8 REST API deployed on Render.com with Supabase (PostgreSQL) backend
+> Real-time classroom tracker for **53 rooms** and **69 teachers** — live at [ticky-6r32.onrender.com](https://ticky-6r32.onrender.com)
+
+- PHP 8 REST API deployed on Render with Supabase (PostgreSQL) backend
 - Node.js bulk importer — parses timetable data and inserts records in batched transactions
-- Admin dashboard with live connection and status monitoring
+- QR code generator for every classroom, printable directly from the browser
+- Admin dashboard with live status monitoring and teacher name management
 
-`PHP 8` `PostgreSQL` `Supabase` `Node.js` `Tailwind CSS` `Docker`
+![PHP 8](https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ---
 
 ### 📅 [Event Calendar — School Event Management](https://github.com/Davedka/esemenynaptar)
-School event calendar with full authentication and role-based visibility — live at [esemenynaptar.onrender.com](https://esemenynaptar.onrender.com)
+
+> School event calendar with full authentication and role-based visibility — live at [esemenynaptar.onrender.com](https://esemenynaptar.onrender.com)
 
 - Full auth system: register, login, secure session management
 - Token-based password reset via PHPMailer + Gmail SMTP
 - Event visibility levels: private / class / school / public
 
-`PHP` `PostgreSQL` `Supabase` `PHPMailer`
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
+<br>
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Davedka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Davedka's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davedka&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Davedka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davedka&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
+</p>
 
----
+<br>
 
 ## 📫 Contact
 
-- 🌐 Portfolio: [davedka.github.io/weboldal](https://davedka.github.io/weboldal)
-- 📧 Email: dkiss0478@gmail.com
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://davedka.github.io/weboldal)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dkiss0478@gmail.com)
 
-> *"First, solve the problem. Then, write the code."*
+<br>
+
+---
+
+*"First, solve the problem. Then, write the code."*
