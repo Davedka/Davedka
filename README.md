@@ -61,10 +61,16 @@ I enjoy working with databases, REST APIs, authentication flows, and clean backe
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Davedka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davedka&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Davedka&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davedka&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
