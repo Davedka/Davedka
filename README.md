@@ -1,8 +1,8 @@
 # Hi, I'm Dávid 👋
 
-> Backend developer focused on building practical web applications — close to the server, close to the data.
+Backend developer focused on building practical web applications — close to the server, close to the data. I enjoy working with databases, REST APIs, authentication flows, and clean backend logic.
 
-I enjoy working with databases, REST APIs, authentication flows, and clean backend logic. Currently finishing my **thesis project** [Ticky](https://github.com/Davedka/Ticky) — a real-time classroom availability tracker deployed and running at school.
+Currently finishing my **thesis project** [Ticky](https://github.com/Davedka/Ticky) — a real-time classroom availability tracker deployed and running live at school.
 
 <br>
 
@@ -25,32 +25,40 @@ I enjoy working with databases, REST APIs, authentication flows, and clean backe
 
 <br>
 
-## 🚀 Projects
+## 🚀 Open Source Projects
 
 ### 🏫 [Ticky — Classroom Availability System](https://github.com/Davedka/Ticky)
 
-> Real-time classroom tracker for **53 rooms** and **69 teachers** — live at [ticky-6r32.onrender.com](https://ticky-6r32.onrender.com)
+[![Live](https://img.shields.io/badge/Live-ticky--6r32.onrender.com-00c896?style=flat-square&logo=render&logoColor=white)](https://ticky-6r32.onrender.com)
+[![License](https://img.shields.io/github/license/Davedka/Ticky?style=flat-square)](https://github.com/Davedka/Ticky/blob/main/LICENSE)
 
-- PHP 8 REST API deployed on Render with Supabase (PostgreSQL) backend
-- Node.js bulk importer — parses timetable data and inserts records in batched transactions
+Real-time classroom tracker for **53 rooms** and **69 teachers**, built as a thesis project and deployed live at school.
+
+- PHP 8 REST API on Render + Supabase (PostgreSQL) backend
+- Node.js bulk importer — parses timetable data, inserts records in batched transactions
 - QR code generator for every classroom, printable directly from the browser
 - Admin dashboard with live status monitoring and teacher name management
+- Corridor display mode for TV screens
 
-![PHP 8](https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
----
+<br>
 
-### 📅 [Event Calendar — School Event Management](https://github.com/Davedka/esemenynaptar)
+### 📅 [Eseménynaptár — School Event Calendar](https://github.com/Davedka/esemenynaptar)
 
-> School event calendar with full authentication and role-based visibility — live at [esemenynaptar.onrender.com](https://esemenynaptar.onrender.com)
+[![Live](https://img.shields.io/badge/Live-esemenynaptar.onrender.com-00c896?style=flat-square&logo=render&logoColor=white)](https://esemenynaptar.onrender.com)
+[![License](https://img.shields.io/github/license/Davedka/esemenynaptar?style=flat-square)](https://github.com/Davedka/esemenynaptar/blob/main/LICENSE)
 
-- Full auth system: register, login, secure session management
+School event calendar with full authentication and role-based event visibility.
+
+- Full auth system — register, login, secure session management
 - Token-based password reset via PHPMailer + Gmail SMTP
 - Event visibility levels: private / class / school / public
+- Dockerized deployment on Render
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -59,25 +67,10 @@ I enjoy working with databases, REST APIs, authentication flows, and clean backe
 
 <br>
 
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=Davedka&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davedka&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
 ## 📫 Contact
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://davedka.github.io/weboldal)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dkiss0478@gmail.com)
+[![Email](https://img.shields.io/badge/dkiss0478@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dkiss0478@gmail.com)
 
 <br>
 
