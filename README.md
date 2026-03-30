@@ -20,7 +20,7 @@ Currently finishing my **thesis project** [Ticky](https://github.com/Davedka/Tic
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Davedka&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Davedka&layout=compact&theme=dark&hide_border=true)
+
 
 **Databases & Tools**
 
