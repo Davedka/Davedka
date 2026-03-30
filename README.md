@@ -37,7 +37,7 @@ Currently finishing my **thesis project** [Ticky](https://github.com/Davedka/Tic
 ### 🏫 [Ticky — Classroom Availability System](https://github.com/Davedka/Ticky)
 
 [![Live](https://img.shields.io/badge/Live-ticky--6r32.onrender.com-00c896?style=flat-square&logo=render&logoColor=white)](https://ticky-6r32.onrender.com)
-[![License](https://img.shields.io/github/license/Davedka/Ticky?style=flat-square)](https://github.com/Davedka/Ticky/blob/main/LICENSE)
+
 
 Real-time classroom tracker for **53 rooms** and **69 teachers**, built as a thesis project and deployed live at school.
 
@@ -58,7 +58,7 @@ Real-time classroom tracker for **53 rooms** and **69 teachers**, built as a the
 ### 📅 [Eseménynaptár — School Event Calendar](https://github.com/Davedka/esemenynaptar)
 
 [![Live](https://img.shields.io/badge/Live-esemenynaptar.onrender.com-00c896?style=flat-square&logo=render&logoColor=white)](https://esemenynaptar.onrender.com)
-[![License](https://img.shields.io/github/license/Davedka/esemenynaptar?style=flat-square)](https://github.com/Davedka/esemenynaptar/blob/main/LICENSE)
+
 
 School event calendar with full authentication and role-based event visibility.
 
