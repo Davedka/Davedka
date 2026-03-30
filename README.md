@@ -34,7 +34,7 @@ Currently finishing my **thesis project** [Ticky](https://github.com/Davedka/Tic
 
 <br>
 
-## 🚀 Open Source Projects
+##  Projects
 
 ### 🏫 [Ticky — Classroom Availability System](https://github.com/Davedka/Ticky)
 
