@@ -14,6 +14,11 @@ Currently finishing my **thesis project** [Ticky](https://github.com/Davedka/Tic
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
+
+## 📊 GitHub Stats
+
+![Davedka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davedka&show_icons=true&theme=dark&hide_border=true)
+
 **Databases & Tools**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -70,6 +75,8 @@ School event calendar with full authentication and role-based event visibility.
 ## 📫 Contact
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://davedka.github.io/weboldal)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dávid-kiss-9287a23b0/)
 [![Email](https://img.shields.io/badge/dkiss0478@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dkiss0478@gmail.com)
 
 <br>
