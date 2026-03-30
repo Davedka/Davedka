@@ -1,4 +1,4 @@
-# Hi, I'm Dávid 👋
+# Hi, I'm Dávid 👋 ![Visitors](https://komarev.com/ghpvc/?username=Davedka&color=blue&style=flat-square)
 
 Backend developer focused on building practical web applications — close to the server, close to the data. I enjoy working with databases, REST APIs, authentication flows, and clean backend logic.
 
@@ -19,6 +19,8 @@ Currently finishing my **thesis project** [Ticky](https://github.com/Davedka/Tic
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Davedka&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Davedka&layout=compact&theme=dark&hide_border=true)
 
 **Databases & Tools**
 
@@ -81,6 +83,8 @@ School event calendar with full authentication and role-based event visibility.
 [![Email](https://img.shields.io/badge/dkiss0478@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dkiss0478@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dávid-kiss-9287a23b0/)
+
+[![Discord](https://img.shields.io/badge/xyr__tm-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/xyr_tm)
 
 <br>
 
