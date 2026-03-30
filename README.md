@@ -14,7 +14,7 @@ Currently finishing my **thesis project** [Ticky](https://github.com/Davedka/Tic
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-![Davedka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davedka&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
+![GitHub Streak](https://streak-stats.demolab.com?user=Davedka&theme=dark&hide_border=true)
 
 **Databases & Tools**
 
